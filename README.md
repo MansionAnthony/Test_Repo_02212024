@@ -2,7 +2,7 @@
 
 ## Overview (Pretend it's due 2/23 for seperate branch moments)
 - Include client problem
-- Inlcude main takeaway analysis
+- Include main takeaway analysis
 - Data source link
 
 ## Analysis (Visuals)
